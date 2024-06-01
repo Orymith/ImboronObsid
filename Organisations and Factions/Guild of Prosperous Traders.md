@@ -1,4 +1,4 @@
-The Guild of Prosperous Traders is a powerful and influential faction in the [[Bridge City's]] of [[[Astoria]] and [[Marisville]][[Imboron]]. Comprising wealthy merchants and traders, it holds a dominant position in the city's economic and political affairs. The guild's origins can be traced back to the aftermath of the Celestial Comet, when ambitious traders capitalized on the receding sea to establish new trade routes.
+The Guild of Prosperous Traders is a powerful and influential faction in the [[Bridge City's]] of [[Astoria]] and [[Marisville]]. Comprising wealthy merchants and traders, it holds a dominant position in the city's economic and political affairs. The guild's origins can be traced back to the aftermath of the Celestial Comet, when ambitious traders capitalized on the receding sea to establish new trade routes.
 
 ### Structure
 
