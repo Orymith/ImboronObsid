@@ -13,7 +13,7 @@ Thorles Loray, recognizing the potential for a new beginning, extended a hand of
 
 #### Integration into the Empire
 
-The process of integrating tieflings into the [[RemoteBackup/Organisations and Factions/First Empire Of Man|First Empire Of Man]] was not without its challenges. Prejudices and fears ran deep, and many tieflings faced discrimination and mistrust from those who still saw them as remnants of Ukral's dark legacy. However, the Empire, under the wise and just rule of Thorles Loray, enacted laws to protect tieflings' rights and promote their acceptance.
+The process of integrating tieflings into the [[First Empire Of Man|First Empire Of Man]] was not without its challenges. Prejudices and fears ran deep, and many tieflings faced discrimination and mistrust from those who still saw them as remnants of Ukral's dark legacy. However, the Empire, under the wise and just rule of Thorles Loray, enacted laws to protect tieflings' rights and promote their acceptance.
 
 Tieflings gradually found their place within the Empire, contributing to its reconstruction and growth in various ways. Some became scholars, delving into the arcane arts with a depth of understanding born from their unique heritage. Others served in the military, using their innate abilities to protect the realm that had accepted them. Many more simply sought to live peaceful lives, raising families and contributing to their communities.
 
@@ -21,6 +21,6 @@ Tieflings gradually found their place within the Empire, contributing to its rec
 
 Sixty years have passed since the end of the Demon War and the formation of the First Empire of Man. In 60IA (Imperial Age), tieflings are a recognized and integral part of the Empire's diverse populace. While some pockets of prejudice remain, the majority of the Empire's citizens have come to see tieflings as their fellow men and women, bound by common goals and shared experiences.
 
-[[RemoteBackup/Organisations and Factions/The Suns of Dawn|The Suns of Dawn]], established by Paul Vigil, has been particularly instrumental in fostering acceptance and understanding. Many tieflings have joined the Order, their unique abilities and perspectives enriching its ranks and proving their loyalty and dedication to the Empire's ideals.
+[[The Suns of Dawn|The Suns of Dawn]], established by Paul Vigil, has been particularly instrumental in fostering acceptance and understanding. Many tieflings have joined the Order, their unique abilities and perspectives enriching its ranks and proving their loyalty and dedication to the Empire's ideals.
 
 Emperor Thorles Loray's legacy of unity and compassion lives on in the Empire's treatment of tieflings, serving as a testament to the belief that even those born of darkness can find their place in the light. The story of the tieflings' liberation and integration stands as a powerful reminder of the Empire's founding principles: that all beings deserve the chance for redemption, and that strength lies in diversity and unity.
