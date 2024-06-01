@@ -2,7 +2,7 @@
 
 #### Overview
 
-Westholm is a bustling border town situated on the edge of the [[First Empire Of Man]], serving as the primary gateway between the Barrens of [[Drorgal Niz]] and the more fertile lands of the Empire. This strategic location makes it a melting pot of cultures, where orcs, kobolds, goblins, bugbears, and humans live side by side. Over the years, many orc-kind have left the harsh environment of Drorgal Niz to seek a better life in Westholm, integrating into the Empire and even learning the "human trade of farming."
+Westholm is a bustling border town situated on the edge of the [[First Empire Of Man]], serving as the primary gateway between the Barrens of [[Drorgal Niz]] and the more fertile lands of the Empire. This strategic location makes it a melting pot of cultures, where [[Ork-kind races]] orcs, kobolds, goblins, bugbears, and humans live side by side. Over the years, many orc-kind have left the harsh environment of Drorgal Niz to seek a better life in Westholm, integrating into the Empire and even learning the "human trade of farming."
 
 #### Notable Locations
 
@@ -26,4 +26,4 @@ The town's economy thrives on trade and agriculture, with the Market Square and 
 
 In terms of governance, Westholm is led by a town council composed of representatives from both the human and orc-kind communities. This council ensures that the interests of all residents are considered, fostering a spirit of cooperation and mutual respect. The Border Watch plays a crucial role in maintaining security and facilitating the smooth flow of goods and people between the Empire and the Barrens.
 
-In the current year of 60IA, Westholm stands as a testament to the potential for unity and collaboration between different cultures. It is a place where the harshness of the Barrens meets the prosperity of the Empire, creating a thriving community that embodies the best of both worlds.an]]
+In the current year of 60IA, Westholm stands as a testament to the potential for unity and collaboration between different cultures. It is a place where the harshness of the Barrens meets the prosperity of the Empire, creating a thriving community that embodies the best of both worlds
