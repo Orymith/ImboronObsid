@@ -1,6 +1,6 @@
 #### Overview
 
-The [[Shattered Sea]] is a sprawling and dangerous expanse of water, dotted with countless slands and rocky outcrops. This perilous region is infamous for its treacherous navigation, where sharp reefs and sudden storms have claimed countless ships. Legends abound of ancient curses and hidden treasures, making the Shattered Sea both feared and sought after by sailors, adventurers, and treasure hunters.
+The [[RemoteBackup/Regions/Shattered sea]] is a sprawling and dangerous expanse of water, dotted with countless slands and rocky outcrops. This perilous region is infamous for its treacherous navigation, where sharp reefs and sudden storms have claimed countless ships. Legends abound of ancient curses and hidden treasures, making the Shattered Sea both feared and sought after by sailors, adventurers, and treasure hunters.
 
 #### Geography and Hazards
 

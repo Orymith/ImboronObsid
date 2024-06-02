@@ -1,6 +1,6 @@
 #### Overview
 
-[[Drorgal Niz]], often referred to as the Barren Wasteland, is a harsh and unforgiving region located to the West of the Empire. It is a desolate expanse of rocky plains, jagged cliffs, and parched earth, where life struggles to take root and only the strongest and most resilient creatures can survive. The landscape is dotted with the remnants of ancient civilizations, their ruins standing as silent witnesses to the passage of time and the unforgiving nature of the land.
+[[RemoteBackup/Regions/Drorgal Niz]], often referred to as the Barren Wasteland, is a harsh and unforgiving region located to the West of the Empire. It is a desolate expanse of rocky plains, jagged cliffs, and parched earth, where life struggles to take root and only the strongest and most resilient creatures can survive. The landscape is dotted with the remnants of ancient civilizations, their ruins standing as silent witnesses to the passage of time and the unforgiving nature of the land.
 
 #### Geography and Climate
 

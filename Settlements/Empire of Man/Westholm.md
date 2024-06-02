@@ -2,7 +2,7 @@
 
 #### Overview
 
-Westholm is a bustling border town situated on the edge of the [[First Empire Of Man]], serving as the primary gateway between the Barrens of [[RemoteBackup/Points of interest/Drorgal Niz]] and the more fertile lands of the Empire. This strategic location makes it a melting pot of cultures, where [[Ork-kind races]] orcs, kobolds, goblins, bugbears, and humans live side by side. Over the years, many orc-kind have left the harsh environment of Drorgal Niz to seek a better life in Westholm, integrating into the Empire and even learning the "human trade of farming."
+Westholm is a bustling border town situated on the edge of the [[First Empire Of Man]], serving as the primary gateway between the Barrens of [[RemoteBackup/Regions/Drorgal Niz]] and the more fertile lands of the Empire. This strategic location makes it a melting pot of cultures, where [[Ork-kind races]] orcs, kobolds, goblins, bugbears, and humans live side by side. Over the years, many orc-kind have left the harsh environment of Drorgal Niz to seek a better life in Westholm, integrating into the Empire and even learning the "human trade of farming."
 
 #### Notable Locations
 
