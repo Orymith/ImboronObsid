@@ -53,3 +53,7 @@ Arcane Sickness: Chronic exposure to Soulfire's magical radiation can lead to a 
 ### Environmental Impact
 
 A discerning and cautious approach is imperative when handling Soulfire. The responsible management of this precious resource is of paramount importance to forestall the risk of disharmony among magical forces. Over-harvesting or reckless manipulation may lead to disconcerting disturbances within the natural order, precipitating disastrous magical repercussions.
+
+
+
+# Gameplay Effects
