@@ -33,3 +33,5 @@ Overthrow of Kings (approx. 500 years ago): The Guild of Prosperous Traders orch
 Construction of the Bridge (approx. 400 years ago): As the cities expanded, a grand bridge was constructed to connect Astoria and Marisville, becoming a symbol of their unity and prosperity. 
 
 Prosperity and Disparity (approx. 200 years ago): The Bridge Cities flourished under the governance of the Guild of Prosperous Traders, experiencing economic prosperity, but also witnessing a widening gap between the wealthy elite and the impoverished populace. Challenges and Dissent (present times): Growing disparity and dissatisfaction among the impoverished inhabitants have led to occasional dissent and protests against the oligarchic rule, shaping the present-day state of the Bridge Cities.
+
+# Largely Than
