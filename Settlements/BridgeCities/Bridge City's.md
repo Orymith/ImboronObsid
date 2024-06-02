@@ -36,4 +36,4 @@ Prosperity and Disparity (approx. 200 years ago): The Bridge Cities flourished u
 
 # Soulfire usage
 
-Thanks to the most recent breakthroughs in soulfire refinement, the bridge citys is a bustling hub of industry and commerce, far ahead of even the first empire of man. allowing goods to be produced at a much faster ra 
+Thanks to the most recent breakthroughs in soulfire refinement, the bridge citys is a bustling hub of industry and commerce, far ahead of even the first empire of man. allowing goods to be produced at a much faster rate thanks to companys such as xando  and  
