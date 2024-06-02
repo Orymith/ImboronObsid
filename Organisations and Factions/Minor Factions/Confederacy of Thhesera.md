@@ -2,7 +2,7 @@
 
 #### Overview
 
-The [[Confederacy of Thhesera]] is an enigmatic and reclusive realm nestled deep within the [[Mystical Forests of Thhesera]]. This region, known for its ancient, towering trees and arcane energies, is the last bastion of the elven kind who have retreated from the world of humans. The elves of Thhesera are descendants of the once-mighty [[Althari Elves]], who ruled over the land of [[Imberon]] millennia ago. Today, these elves have abandoned much of their former glory and culture, focusing instead on preserving their forest home and shunning the outside world.
+The [[Confederacy of Thhesera]] is an enigmatic and reclusive realm nestled deep within the [[RemoteBackup/Regions/Forests of Thhesera]]. This region, known for its ancient, towering trees and arcane energies, is the last bastion of the elven kind who have retreated from the world of humans. The elves of Thhesera are descendants of the once-mighty [[Althari Elves]], who ruled over the land of [[Imberon]] millennia ago. Today, these elves have abandoned much of their former glory and culture, focusing instead on preserving their forest home and shunning the outside world.
 
 #### History
 
