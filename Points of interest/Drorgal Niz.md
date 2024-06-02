@@ -1,6 +1,6 @@
 #### Overview
 
-[[Drorgal Niz]], often referred to as the Barren Wasteland, is a harsh and unforgiving region located to the east of the Empire. It is a desolate expanse of rocky plains, jagged cliffs, and parched earth, where life struggles to take root and only the strongest and most resilient creatures can survive. The landscape is dotted with the remnants of ancient civilizations, their ruins standing as silent witnesses to the passage of time and the unforgiving nature of the land.
+[[Drorgal Niz]], often referred to as the Barren Wasteland, is a harsh and unforgiving region located to the West of the Empire. It is a desolate expanse of rocky plains, jagged cliffs, and parched earth, where life struggles to take root and only the strongest and most resilient creatures can survive. The landscape is dotted with the remnants of ancient civilizations, their ruins standing as silent witnesses to the passage of time and the unforgiving nature of the land.
 
 #### Geography and Climate
 
@@ -10,7 +10,7 @@ The terrain of Drorgal Niz is rugged and inhospitable, characterized by vast str
 
 Despite its barren nature, Drorgal Niz is not entirely devoid of life. The region is home to a variety of hardy and adaptive species, including:
 
-**1. [[RemoteBackup/Races of Imboron/Ork-kind races|Ork-kind races]]:** The primary inhabitants of Drorgal Niz are the [[orcs]], who have adapted to the harsh environment over generations. They are divided into several clans, each with its own unique characteristics and traditions. The three main clans, Clan Thundertusk, Clan Bloodfang, and Clan Moonshadow, are the most prominent and influential in the region.
+**1. [[RemoteBackup/Races of Imboron/Ork-kind races|Ork-kind races]]:** The primary inhabitants of Drorgal Niz are the orcs, who have adapted to the harsh environment over generations. They are divided into several clans, each with its own unique characteristics and traditions. The three main clans, Clan Thundertusk, Clan Bloodfang, and Clan Moonshadow, are the most prominent and influential in the region.
 
 **2. Kobolds, Goblins, and Bugbears:** These smaller humanoid species have also carved out a niche for themselves in Drorgal Niz, often living in symbiosis with the orc clans or forming their own independent communities. They are known for their resourcefulness and ability to survive in the harshest conditions.
 
