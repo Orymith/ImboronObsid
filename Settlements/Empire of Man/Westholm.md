@@ -27,3 +27,6 @@ The town's economy thrives on trade and agriculture, with the Market Square and 
 In terms of governance, Westholm is led by a town council composed of representatives from both the human and orc-kind communities. This council ensures that the interests of all residents are considered, fostering a spirit of cooperation and mutual respect. The Border Watch plays a crucial role in maintaining security and facilitating the smooth flow of goods and people between the Empire and the Barrens.
 
 In the current year of 60IA, Westholm stands as a testament to the potential for unity and collaboration between different cultures. It is a place where the harshness of the Barrens meets the prosperity of the Empire, creating a thriving community that embodies the best of both worlds
+
+
+
