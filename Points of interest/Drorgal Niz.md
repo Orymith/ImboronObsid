@@ -35,3 +35,12 @@ Gromlok Thar, the capital of Drorgal Niz, is a testament to the resilience and i
 Drorgal Niz holds significant cultural and spiritual importance for its inhabitants. The harsh environment has forged a strong sense of community and resilience among the orc-kind, who view their survival in such a challenging land as a mark of their strength and determination. The ancient ruins scattered across the wasteland are revered as sacred sites, offering glimpses into the region's mysterious past and the enduring legacy of its people.
 
 In the current year of 60IA, Drorgal Niz remains a land of mystery and danger, where the line between survival and extinction is razor-thin. Those who venture into its barren expanse do so with the knowledge that they are entering a world where only the strongest endure, and the secrets of the past lie buried beneath the unforgiving sands.
+
+
+
+
+
+
+
+
+[[[RemoteBackup/Assets/Imboron|Imboron]]]
