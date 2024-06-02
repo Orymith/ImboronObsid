@@ -1,5 +1,5 @@
 
-![[RemoteBackup/Assets/Ukral.jpeg]]
+![[RemoteBackup/Assets/Ukral.jpeg]] [[linkTitle|Ukral.jpeg]]
 ### Lore:
 
 #### Origins and Ascendance
