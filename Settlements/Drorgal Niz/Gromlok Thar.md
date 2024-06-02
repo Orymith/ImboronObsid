@@ -2,7 +2,7 @@
 
 #### Overview
 
-Gromlok Thar stands as the formidable capital of the orcish realms, a testament to the unity and strength of orc-kind. Located in the heart of Drorgal Niz, a harsh and barren wasteland, Gromlok Thar is a sprawling fortress city that embodies the resilience and tenacity of its inhabitants. The city is ruled by the Council of the Three Tribes, each bringing their unique strengths and traditions to the governance and defense of their capital.
+Gromlok Thar stands as the formidable capital of the orcish realms, a testament to the unity and strength of orc-kind. Located in the heart of [[Drorgal Niz]], a harsh and barren wasteland, Gromlok Thar is a sprawling fortress city that embodies the resilience and tenacity of its inhabitants. The city is ruled by the Council of the Three Tribes, each bringing their unique strengths and traditions to the governance and defense of their capital.
 
 #### The Council of the Three Tribes
 
