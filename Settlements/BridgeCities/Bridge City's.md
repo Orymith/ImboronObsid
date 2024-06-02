@@ -46,7 +46,7 @@ Soulfire, with its ephemeral transparency and weightless aura, is utilized in va
 
 1. **Industrial Production:**
     
-    - **Enhanced Manufacturing:** Companies like [[Xando Xandos Trading Company]] and [[Goren's Guild of Artisans]] have revolutionized manufacturing processes. Soulfire-powered machinery operates with unparalleled efficiency, allowing goods to be produced at a much faster rate.
+    - **Enhanced Manufacturing:** Companies like [[RemoteBackup/Organisations and Factions/Guilds and Merchant/Xando Xandos Trading Company]] and [[RemoteBackup/Organisations and Factions/Guilds and Merchant/Goren's Guild of Artisans]] have revolutionized manufacturing processes. Soulfire-powered machinery operates with unparalleled efficiency, allowing goods to be produced at a much faster rate.
     - **Energy Source:** Factories and workshops are powered by Soulfire-infused engines, providing a clean and potent energy source that reduces reliance on traditional fuels.
 2. **Transportation:**
     
@@ -74,9 +74,9 @@ The use of Soulfire has positioned the Bridge Cities as a dominant force in glob
 
 #### Key Companies
 
-- [[Xando Xandos Trading Company]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
-- [[Goren's Guild of Artisans]]Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
-- [[Elarias Enchanted Goods]]Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
+- [[RemoteBackup/Organisations and Factions/Guilds and Merchant/Xando Xandos Trading Company]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
+- [[RemoteBackup/Organisations and Factions/Guilds and Merchant/Goren's Guild of Artisans]]Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
+- [[RemoteBackup/Organisations and Factions/Guilds and Merchant/Elarias Enchanted Goods]]Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
 
 #### Future Prospects
 
