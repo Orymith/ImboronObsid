@@ -1,6 +1,6 @@
 #### Overview
 
-[[Farandor]], often referred to as the [[Northern Kingdom]], is an isle discovered 63 years ago. It stands as the last human kingdom not absorbed into the [[RemoteBackup/Organisations and Factions/Major Factions/First Empire Of Man|First Empire Of Man]]. Despite the Empire's relentless efforts, Farandor has resisted incorporation, holding its ground for over 40 years in a brutal and unyielding war. The kingdom is renowned for its harsh and barbaric methods of warfare, a testament to its determination to remain free and independent.
+[[Farandor]], often referred to as the [[Northern Kingdom]], is an isle discovered 63 years ago. It stands as the last human kingdom not absorbed into the [[RemoteBackup/Organisations and Factions/Major Factions/First Empire Of Man|First Empire Of Man]]. Despite the Empire's relentless efforts only gaining the City of [[Vigilhold]], Farandor has resisted incorporation, holding its ground for over 40 years in a brutal and unyielding war. The kingdom is renowned for its harsh and barbaric methods of warfare, a testament to its determination to remain free and independent.
 
 #### Geography and Climate
 
