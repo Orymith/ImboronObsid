@@ -1,6 +1,6 @@
 ```leaflet
 id: imboronmap
-image: [[imboron.jpg]]
+image: [[RemoteBackup/ImboronMap.jpg]]
 height: 500px
 lat: 50
 long: 50
