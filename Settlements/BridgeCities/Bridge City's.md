@@ -74,9 +74,9 @@ The use of Soulfire has positioned the Bridge Cities as a dominant force in glob
 
 #### Key Companies
 
-- [[**Xando Xandos Trading Company:**]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
-- [[**Goren's Guild of Artisans:** Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
-- **Elaria's Enchanted Goods:** Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
+- [[Xando Xandos Trading Company:]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
+- [[Goren's Guild of Artisans:]]*Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
+- [[**Elaria's Enchanted Goods:]]** Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
 
 #### Future Prospects
 
