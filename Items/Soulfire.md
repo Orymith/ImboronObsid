@@ -56,4 +56,26 @@ A discerning and cautious approach is imperative when handling Soulfire. The res
 
 
 
-# Gameplay Effects
+# Gameplay Effect
+
+Raw Soulfire Crystal In-Game Effects:
+
+1. Arcane Resonance:
+    
+    - Subtle Vibration: When within 10 feet of a Raw Soulfire Crystal, spellcasters can sense a subtle vibration. They gain advantage on Arcana checks related to identifying or understanding spells and magical effects.
+2. Weightless Aura:
+    - Lightness of Being: Despite its solid form, the crystal feels lighter than it should. A Raw Soulfire Crystal, regardless of size, weighs only 1 poundgical Amplification:
+    
+    - Empowered Spellcasting: Holding a Raw Soulfire Crystal while casting a spell increases the spell's save DC by 1 and grants advantage on spell attack rolls.
+4. Magical Radiation (Hazardous):
+
+    - Arcane Contamination: Prolonged exposure to a Raw Soulfire Crystal can lead to arcane contamination. Each hour spent within 10 feet of an unshielded crystal requires a DC 12 Constitution saving throw. Failure results in one level of exhaustion and uncontrollable magical surges, which may cause unintended spell effects (determined by the DM).
+5. Environmental Disruption:
+ 
+    - Flora and Fauna Disturbance: Plants and animals within a 30-foot radius may become mutated or corrupted by the crystal's energy. Roll on a random mutation table for each affected plant or animal (determined by the DM).
+6. Uncontrolled Magic:
+    
+    - Danger to the Untrained: Non-spellcasters within 10 feet of a Raw Soulfire Crystal must succeed on a DC 14 Wisdom saving throw each hour or unintentionally cast a random spell from the wild magic surge table.
+7. Arcane Sickness:
+    
+    - Chronic Exposure: After 8 hours of cumulative exposure to the crystal's magical radiation, creatures must succeed on a DC 15 Constitution saving throw or suffer from arcane sickness. Symptoms include fatigue, headaches, and a reduction of maximum hit points by 1d4 until the creature completes a long rest away from the crystal.
