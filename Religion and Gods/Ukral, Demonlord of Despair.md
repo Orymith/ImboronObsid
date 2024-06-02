@@ -4,7 +4,7 @@
 
 #### Origins and Ascendance
 
-Ukral, once a lesser demon among the legions of the Abyss, ascended to power through his cunning, ruthless ambition, and unmatched cruelty. In ancient times, long before the recorded history, Ukral clawed his way to supremacy, defeating and subjugating rival demon lords to carve out his own dominion. Through a combination of forbidden rituals and the consumption of his rivals' essence, Ukral became a formidable force, a being of near-boundless power.
+Ukral, once a lesser demon among the legions of the Abyss, ascended to power through his cunning, ruthless ambition, and unmatched cruelty. In ancient times, long before the recorded history, Ukral clawed his way to supremacy, defeating and subjugating rival demon lords to carve out his own dominion. Throxugh a combination of forbidden rituals and the consumption of his rivals' essence, Ukral became a formidable force, a being of near-boundless power.
 
 #### Appearance
 
