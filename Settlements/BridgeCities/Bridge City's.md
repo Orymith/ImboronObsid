@@ -34,4 +34,6 @@ Construction of the Bridge (approx. 400 years ago): As the cities expanded, a gr
 
 Prosperity and Disparity (approx. 200 years ago): The Bridge Cities flourished under the governance of the Guild of Prosperous Traders, experiencing economic prosperity, but also witnessing a widening gap between the wealthy elite and the impoverished populace. Challenges and Dissent (present times): Growing disparity and dissatisfaction among the impoverished inhabitants have led to occasional dissent and protests against the oligarchic rule, shaping the present-day state of the Bridge Cities.
 
-# Largely Than
+# Soulfire usage
+
+Thanks to the most recent breakthroughs in soulfire refinement, the bridge citys is a bust 
