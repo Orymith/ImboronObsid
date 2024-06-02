@@ -38,7 +38,7 @@ Prosperity and Disparity (approx. 200 years ago): The Bridge Cities flourished u
 
 #### Overview
 
-The Bridge Cities, comprised of [[Marisville]] and [[Astoria]], are at the forefront of technological and industrial advancements thanks to the recent breakthroughs in [[Soulfire]] refinement. This unique resource, harnessed and refined only within the Bridge Cities, has propelled the region into a bustling hub of industry and commerce, far surpassing even the [[RemoteBackup/Organisations and Factions/Major Factions/First Empire Of Man|First Empire Of Man]]
+The [[RemoteBackup/Settlements/BridgeCities/Bridge City's|Bridge City's]], comprised of [[Marisville]] and [[Astoria]], are at the forefront of technological and industrial advancements thanks to the recent breakthroughs in [[Soulfire]] refinement. This unique resource, harnessed and refined only within the Bridge Cities, has propelled the region into a bustling hub of industry and commerce, far surpassing even the [[RemoteBackup/Organisations and Factions/Major Factions/First Empire Of Man|First Empire Of Man]]
 
 #### Soulfire Applications
 
@@ -46,7 +46,7 @@ Soulfire, with its ephemeral transparency and weightless aura, is utilized in va
 
 1. **Industrial Production:**
     
-    - **Enhanced Manufacturing:** Companies like [[Xando Xandos Trading Company and Goren's Guild of Artisans have revolutionized manufacturing processes. Soulfire-powered machinery operates with unparalleled efficiency, allowing goods to be produced at a much faster rate.
+    - **Enhanced Manufacturing:** Companies like [[Xando Xandos Trading Company]] and [[Goren's Guild of Artisans]] have revolutionized manufacturing processes. Soulfire-powered machinery operates with unparalleled efficiency, allowing goods to be produced at a much faster rate.
     - **Energy Source:** Factories and workshops are powered by Soulfire-infused engines, providing a clean and potent energy source that reduces reliance on traditional fuels.
 2. **Transportation:**
     
@@ -74,8 +74,8 @@ The use of Soulfire has positioned the Bridge Cities as a dominant force in glob
 
 #### Key Companies
 
-- **Xando Xandos Trading Company:** A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
-- **Goren's Guild of Artisans:** Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
+- [[**Xando Xandos Trading Company:**]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
+- [[**Goren's Guild of Artisans:** Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
 - **Elaria's Enchanted Goods:** Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
 
 #### Future Prospects
