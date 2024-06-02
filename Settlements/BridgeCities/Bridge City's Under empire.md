@@ -1,7 +1,7 @@
 
 In the vast lands of Imbron the underempire is a testament of resistance. Build upon a duregarian nation the great underempire is well fortified and armed however the orignal goal of survival was met and a new divide arises, what shall be done with those above? The parlament is divided and the tension slowly rises and the tension inches closer and closer to riots and viloence. Despite the conflict originating in high soceiety the tension is felt everywhere as more and more guards act harsh and agressive, Yuan ti grow even more distrustfull and Hospitals overfill with victims of Soulfire poisoning.
 
-Goverment
+# Goverment
 
 Parliment: the main govening body of the underempire is the parliment comprised of 90 members all from noble houses every 20 years there is an election where everyone who owns land can vote on their favoured candidate any changes in law have to be discussed and voted on by the parliment with at least 50 yuan ti supproting it.
 
@@ -22,9 +22,9 @@ Berchan: originally a title of a king of the yuan ti nation now this role is mor
 
 Upper Fort the location of the Officeriat its population is small especially after the sewers were opened the small civilan population is comprised mostly of doctors and smiths working for the military. Long since the homes here were dimantled and replaced with fortifications and watchtowers at the centre of it over the grand staircase stands the Granitium a fortification where the officers live it gathered a bad reputation for being a place where the worst criminals are send to be interrogated.
 
-Grand Staircase is proably the largest district in the city it reffers to the middle class housing away from all of the industry, its has tight passageways traveling around like a maze despite the facade of utopia its the district most at risk of soulfire poisoning. The district is heavyly guarded but even that doesnt stop most of petty theftf and pickpokets that live in heavy crowds of this place. Most of the city's trade happenes here.
+Grand Staircase: is proably the largest district in the city it reffers to the middle class housing away from all of the industry, its has tight passageways traveling around like a maze despite the facade of utopia its the district most at risk of soulfire poisoning. The district is heavyly guarded but even that doesnt stop most of petty theftf and pickpokets that live in heavy crowds of this place. Most of the city's trade happenes here.
 
-Templehof the worhip district of the city build here are many temples zigurats and altars dedicated to snake gods 
+Temple of the worhip district of the city build here are many temples zigurats and altars dedicated to snake gods 
 
 Golden hills is the district where all of the most expensive of buildings rest most notably Halls of Parliment,Mannor of Berchan,Imperial zoo and Zerian headquarters where all agents and secret police are trainied
 
