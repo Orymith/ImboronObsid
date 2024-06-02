@@ -1,5 +1,5 @@
 
-The Underempire of Imbron, built upon the foundations of a Duergar nation, stands as a testament to resistance and resilience. Initially focused on survival, the Underempire now faces a new divide concerning the fate of those above. The parliament is split, tensions rise, and violence looms. This unrest permeates all levels of society, with aggressive guards, distrustful Yuan-ti, and hospitals filled with Soulfire poisoning victims.
+The Underempire of [[imboron]], built upon the foundations of a Duergar nation, stands as a testament to resistance and resilience. Initially focused on survival, the Underempire now faces a new divide concerning the fate of those above in the [[RemoteBackup/Settlements/BridgeCities/Bridge City's|Bridge City's]]. The parliament is split, tensions rise, and violence looms. This unrest permeates all levels of society, with aggressive guards, distrustful Yuan-ti, and hospitals filled with Soulfire poisoning victims.
 
 ### Government
 
