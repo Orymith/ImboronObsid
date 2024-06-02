@@ -1,0 +1,1 @@
+[Bridge City's](RemoteBackup/Settlements/BridgeCities/Bridge%20City's.md)
