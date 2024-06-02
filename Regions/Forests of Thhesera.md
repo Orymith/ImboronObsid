@@ -1,6 +1,6 @@
 #### Overview
 
-The [[Forests of Thhesera]] are a sprawling expanse of enchanted woodlands located to the north of the [[Swamps of the Bridge Cities]]. Renowned for their ethereal beauty and profound connection to the arcane, these forests are steeped in mystery and wonder. Home to the reclusive [[Confederacy of Thhesera]], the woods hold many secrets and dangers, attracting adventurers and scholars alike who seek to uncover their hidden truths.
+The [[Forests of Thhesera]] are a sprawling expanse of enchanted woodlands located to the north of the Swamps of the [[RemoteBackup/Settlements/BridgeCities/Bridge City's|Bridge City's]]. Renowned for their ethereal beauty and profound connection to the arcane, these forests are steeped in mystery and wonder. Home to the reclusive [[Confederacy of Thhesera]], the woods hold many secrets and dangers, attracting adventurers and scholars alike who seek to uncover their hidden truths.
 
 #### Geography and Landscape
 
