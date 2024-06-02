@@ -70,13 +70,13 @@ Soulfire, with its ephemeral transparency and weightless aura, is utilized in va
 
 #### Economic Impact
 
-The use of Soulfire has positioned the Bridge Cities as a dominant force in global commerce. The region's ability to produce goods rapidly and efficiently attracts traders and investors from across the world, fostering economic growth and prosperity. This has led to a significant influx of wealth, transforming both Marisville and Astoria into thriving urban centers.
+The use of Soulfire has positioned the Bridge Cities as a dominant force in global commerce. The region's ability to produce goods rapidly and efficiently attracts traders and investors from across the world, fostering economic growth and prosperity. This has led to a significant influx of wealth, transforming both Marisville and Astoria into thriving urban centres.
 
 #### Key Companies
 
-- [[Xando Xandos Trading Company:]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
-- [[Gorens Guild of Artisans:]]Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
-- [[Elarias Enchanted Goods:]]Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
+- [[Xando Xandos Trading Company]] A leading force in the industrial sector, known for its innovative use of Soulfire in manufacturing and transportation.
+- [[Goren's Guild of Artisans]]Renowned for its craftsmanship and advanced production techniques, leveraging Soulfire to create high-quality goods.
+- [[Elarias Enchanted Goods]]Specializes in Soulfire-infused magical items, from arcane communication devices to enchanted jewelry, catering to both locals and international clients.
 
 #### Future Prospects
 
