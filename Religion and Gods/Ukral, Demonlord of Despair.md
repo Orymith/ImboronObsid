@@ -31,7 +31,7 @@ Ukral's primary motive is to extend his reign of despair and suffering to new re
 
 #### The Invasion of 0BL
 
-In the year 6BL (Before Loray), Ukral launched a massive invasion. This event, known as the [[Demon Wars]], saw legions of demons pouring through rifts into the world, led by Ukral himself. The lands were engulfed in chaos and darkness, with entire civilizations brought to their knees by the sheer brutality of the demonic onslaught. Heroes rose and fell in the struggle against Ukral's forces, and the world teetered on the brink of utter annihilation.
+In the year 6BL (Before Loray), Ukral launched a massive invasion. This event, known as the [[Demon Wars]], saw legions of demons pouring through rifts into the world, led by Ukral himself. The lands were engulfed in chaos and darkness, with entire civilizations wiped out and brought to their knees by the sheer brutality of the demonic onslaught. Heroes rose and fell in the struggle against Ukral's forces, and the world teetered on the brink of utter annihilation.
 
 #### Resistance and Banishing
 
