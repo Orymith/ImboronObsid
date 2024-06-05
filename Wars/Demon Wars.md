@@ -4,7 +4,7 @@
 
 **Skirmish at Stonewind Outpost - Year 5 Before Loray:** A small demon scouting party attacks the remote human outpost of Stonewind. Despite their best efforts, the outpost defenders are overwhelmed by the demon forces and suffer heavy casualties. The surviving defenders manage to drive the demons back temporarily but are forced to retreat and abandon the outpost. 
 
-**Siege of Darkholm - Year 5 Before Loray:** The demons targeted Darkholm, a once-mighty fortress guarding the western borders. The human defenders valiantly resisted the onslaught, but they were eventually overwhelmed by the relentless demon forces. Darkholm fell to the darkness, leaving a gap in the defences and causing further disarray among the human kingdoms. 
+**Siege of Darkholm - Year 5 Before Loray:** The demons targeted Darkholm, a once-mighty fortress guarding the western borders. The Dwarf defenders valiantly resisted the onslaught, but they were eventually overwhelmed by the relentless demon forces. Darkholm fell to the darkness, leaving a gap in the defences and causing further disarray among the human kingdoms. 
 
 **Battle of Crimson River - Year 4 Before Loray:** In a desperate attempt to halt the demon advance, the human kingdoms united their armies at the Crimson River. Despite their efforts, the demons exhibited cunning tactics and overwhelming numbers, and the humans suffered a costly defeat. The river ran red with the blood of fallen warriors, and the demonic forces pushed deeper into Imboron. 
 
